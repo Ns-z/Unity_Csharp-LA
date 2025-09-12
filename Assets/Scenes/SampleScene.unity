@@ -418,9 +418,18 @@ MonoBehaviour:
   m_GameObject: {fileID: 410126989}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4964951182d88524baab90c1d1443441, type: 3}
+  m_Script: {fileID: 11500000, guid: f67ecefaaae88aa4197dfc23c3707e56, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  resourceTypeList:
+  - resourceType: 0
+    amount: 25
+  - resourceType: 1
+    amount: 30
+  - resourceType: 2
+    amount: 22
+  - resourceType: 2
+    amount: 5
 --- !u!1 &832575517
 GameObject:
   m_ObjectHideFlags: 0
