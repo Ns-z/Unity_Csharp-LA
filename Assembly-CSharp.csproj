@@ -69,6 +69,7 @@
     <Compile Include="Assets\Scripts\Dictionary_1.cs" />
     <Compile Include="Assets\Scripts\LearnEnums_1.cs" />
     <Compile Include="Assets\Scripts\Dictionary_2.cs" />
+    <Compile Include="Assets\Scripts\CollectionTypes.cs" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">
