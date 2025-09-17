@@ -63,11 +63,13 @@
   <ItemGroup>
     <Compile Include="Assets\Scripts\Intermediate\MultiDimensionalArray_1.cs" />
     <Compile Include="Assets\Scripts\Intermediate\Recursion_1.cs" />
+    <Compile Include="Assets\Scripts\Intermediate\Structs_1.cs" />
     <Compile Include="Assets\Scripts\Intermediate\Dictionary_2.cs" />
     <Compile Include="Assets\Scripts\Intermediate\OptionalParamaters_1.cs" />
     <Compile Include="Assets\Scripts\Intermediate\LearnEnums_1.cs" />
     <Compile Include="Assets\Scripts\Intermediate\Params.cs" />
     <Compile Include="Assets\Scripts\Intermediate\ReferenceTypes_ValueTypes.cs" />
+    <Compile Include="Assets\Scripts\Intermediate\ClassIntermediate_1.cs" />
     <Compile Include="Assets\Scripts\Intermediate\Dictionary_1.cs" />
     <Compile Include="Assets\TutorialInfo\Scripts\Readme.cs" />
     <Compile Include="Assets\Scripts\Intermediate\CollectionTypes.cs" />
